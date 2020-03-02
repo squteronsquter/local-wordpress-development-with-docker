@@ -11,6 +11,8 @@
 
 ?>
 
+
+
 	</div><!-- #content -->
 
 	<footer id="colophon" class="site-footer">
@@ -29,6 +31,7 @@
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->
+<div class="stripe"></div>
 
 <?php wp_footer(); ?>
 
